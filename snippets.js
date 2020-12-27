@@ -34,3 +34,5 @@ samefood.forEach((x) => {
   // console.log("samefood after tolak" + samefood);
   count++;
 });
+
+//
